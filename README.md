@@ -7,11 +7,10 @@
 - ⚡ Fun fact: Meu gosto musical vai de Britney Spears a Rammstein (¬‿¬)
 <img align="right" width="200" height="180" src="https://c.tenor.com/uoeOddR9Sb0AAAAC/kung-fu-oh-yeah.gif">
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/MarcioGsp1">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcioGsp1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGsp1&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benccalcyxzfi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGsp1&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
  
 
   
