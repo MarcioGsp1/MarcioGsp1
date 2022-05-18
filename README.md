@@ -4,7 +4,7 @@
 - ✨ Estudante de programação ...
 - 🎞♟ Amo cinema e xadrez ... 
 
-<img align="right" width="200" height="180" src="https://c.tenor.com/uoeOddR9Sb0AAAAC/kung-fu-oh-yeah.gif">
+
 
 <div align="left">
   <a href="https://github.com/MarcioGsp1">
