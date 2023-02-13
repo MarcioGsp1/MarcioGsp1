@@ -1,7 +1,6 @@
-# ✨Sobre mim:
--  Estudante de programação ...
-- 🎬♟ Amo cinema e xadrez ... 
-- Atualmente estudando JS 💻
+# console.log("Estudante de programação ...")
+
+# alert("Atualmente estudando JS 💻 ...") 
 
 
 ## 🌐 Socials:
