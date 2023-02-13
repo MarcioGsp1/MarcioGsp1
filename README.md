@@ -1,7 +1,7 @@
 # E aêee! Márcio aqui!
 
 ~~~javascript 
-console.log("Iniciando os estudos em desenvovimento Web ...")
+console.log("Iniciando os estudos em desenvolvimento Web ...")
 
 alert("Atualmente estudando JS 💻 ...") 
 ~~~
