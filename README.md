@@ -1,6 +1,12 @@
-# console.log("Estudante de programação ...")
+# Hi! Márcio aqui!
 
-# alert("Atualmente estudando JS 💻 ...") 
+~~~javascript 
+console.log("Iniciando os estudos em desenvovimento Web ...")
+
+alert("Atualmente estudando JS 💻 ...") 
+~~~
+
+
 
 
 ## 🌐 Socials:
