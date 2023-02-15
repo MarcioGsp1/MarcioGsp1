@@ -1,4 +1,4 @@
-# E aêee! Márcio aqui!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=8804FF&width=435&lines=E+a%C3%AAee!;M%C3%A1rcio+aqui!;Futuro+MERN+developer+%F0%9F%98%89)](https://git.io/typing-svg)
 
 ~~~javascript 
 console.log("Iniciando os estudos em desenvolvimento Web ...")
