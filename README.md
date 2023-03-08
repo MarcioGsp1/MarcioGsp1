@@ -31,7 +31,7 @@ alert("Atualmente estudando JS 💻 ...")
 ------
 - Terminal 🚀
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
 ------
 - IDE 🚀
 
